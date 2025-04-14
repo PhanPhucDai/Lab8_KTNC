@@ -7,6 +7,6 @@ public class Calculator {
     }
 
     public Integer sub(Integer a, Integer b) {
-        return a-b;
+        int c = a-b; return c;
     }
 }

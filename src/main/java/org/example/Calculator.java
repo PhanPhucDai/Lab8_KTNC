@@ -2,11 +2,10 @@ package org.example;
 
 public class Calculator {
     public Integer sum(Integer a, Integer b) {
-        int c = a+b;
-        return c ;
+        return 0;
     }
 
     public Integer sub(Integer a, Integer b) {
-        int c = a-b; return c;
+        return 0;
     }
 }
